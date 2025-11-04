@@ -9,14 +9,14 @@
 - Muh Haikal Adis Yafiq
 - Mohamad Ariel Saputra D Loi
 
-#Deskripsi Aplikasi
+# Deskripsi Aplikasi
 
-#5 Pilar Pemrograman Berorientasi Objek
+# 5 Pilar Pemrograman Berorientasi Objek
 
-##Encapsulation
-##Abstraction
-##Inheritance
-##Polymorphism
-##Interface
+## Encapsulation
+## Abstraction
+## Inheritance
+## Polymorphism
+## Interface
 
 
